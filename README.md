@@ -44,10 +44,10 @@ npm run dev
 
 ## 登陆
 
-![](https://github.com/bailicangdu/vue2-manage/blob/master/screenshots/manage_login.png)
+![]https://github.com/QwhiteBoy/vue2-new-pratice/tree/master/screenshots/home.png)
 
-## 添加商店
-![](https://github.com/bailicangdu/vue2-manage/blob/master/screenshots/addshop.png)
+## 主页
+![](https://github.com/QwhiteBoy/vue2-new-pratice/tree/master/screenshots/manage_home.png)
 
-## 添加食品
-![](https://github.com/bailicangdu/vue2-manage/blob/master/screenshots/addfood.png)
+## 添加商品
+![](https://github.com/QwhiteBoy/vue2-new-pratice/tree/master/screenshots/add_shop.png)
